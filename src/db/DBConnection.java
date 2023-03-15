@@ -18,7 +18,7 @@ public class DBConnection {
 		private static final String serverAddress = "hildur.ucn.dk";
 		private static final int serverPort = 1433;
 		private static final String userName = "DMA-CSD-S212_10182474";
-		private static final String password = "Password1!";
+		private static final String password = "*******";
 
 		private DBConnection() throws DataAccessException {
 			// Cheat sheet for the printf() method, the format is also used in the
